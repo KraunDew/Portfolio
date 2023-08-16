@@ -1,0 +1,18 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "KraunDew",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
